@@ -8,7 +8,10 @@ weather
 Используемые технологии
 
   GlassFish4.1
+  
   JPA2.1
+  
   JSF2.1
+  
   Apache Derby
 
